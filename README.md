@@ -60,3 +60,4 @@ networkD3
     ## 27          °--Boxplot
 
 ![plot](plot/network3D_diagonalNetwork.png)
+
