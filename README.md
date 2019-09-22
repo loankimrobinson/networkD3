@@ -7,7 +7,6 @@ NetworkD3 in R
 
 [data](data/network3D_diagonalNetwork.csv)
 
-[plot](docs/index.html)
 
 ``` r
 library(networkD3)
