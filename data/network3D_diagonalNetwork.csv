@@ -1,0 +1,27 @@
+from,to
+Plot,One Variable
+Plot,Two Variables
+One Variable,Numeric
+One Variable,Categoric
+Numeric,Histogram
+Numeric,Density
+Numeric,Histogram & Density
+Categoric,Barplot
+Categoric,Pie plot
+Categoric,Doughnut
+Categoric,Treemap
+Two Variables,2 Numeric Vars
+Two Variables,2 Categoric Vars
+Two Variables,1 Numeric & 1 Categoric Vars
+2 Numeric Vars,Scatter plot
+2 Numeric Vars,Area plot
+2 Numeric Vars,Line plot
+2 Categoric Vars,Barplot by Group
+2 Categoric Vars,Ven Diagram
+2 Categoric Vars,Pie plot by Group
+1 Numeric & 1 Categoric Vars,Histogram by Group
+1 Numeric & 1 Categoric Vars,Density plot by Group
+1 Numeric & 1 Categoric Vars,Histogram & Density plot by Group
+1 Numeric & 1 Categoric Vars,Scatter plot by Group
+1 Numeric & 1 Categoric Vars,Area plot by Group
+1 Numeric & 1 Categoric Vars,Boxplot
