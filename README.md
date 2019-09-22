@@ -3,6 +3,10 @@ R\_networkD3
 
 NetworkD3 in R
 
+#### link to data
+
+[data](data/network3D_diagonalNetwork.csv)
+
 ``` r
 library(networkD3)
 library(data.tree)
@@ -54,3 +58,5 @@ networkD3
     ## 25          ¦--Scatter plot by Group            
     ## 26          ¦--Area plot by Group               
     ## 27          °--Boxplot
+
+![plot](plot/network3D_diagonalNetwork.png)
