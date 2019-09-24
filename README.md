@@ -3,9 +3,11 @@ R\_networkD3
 
 NetworkD3 in R
 
-#### link to data
+[Link to plot](https://loankimrobinson.github.io/networkD3/)
 
-[data](data/network3D_diagonalNetwork.csv)
+
+
+[Link to data](data/network3D_diagonalNetwork.csv)
 
 
 ``` r
