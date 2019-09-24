@@ -1,13 +1,10 @@
 R\_networkD3
 ------------
 
-NetworkD3 in R
-
-[Link to plot](https://loankimrobinson.github.io/networkD3/)
 
 
+[This is how the NetworkD3 Plot looks like](https://loankimrobinson.github.io/networkD3/)
 
-[Link to data](data/network3D_diagonalNetwork.csv)
 
 
 ``` r
@@ -61,6 +58,7 @@ networkD3
     ## 25          ¦--Scatter plot by Group            
     ## 26          ¦--Area plot by Group               
     ## 27          °--Boxplot
+
 
 ![plot](plot/network3D_diagonalNetwork.png)
 
